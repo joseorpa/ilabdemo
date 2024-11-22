@@ -5,8 +5,8 @@
 - **NBA Finals Winner**: **Denver Nuggets**
   - The Denver Nuggets won their first NBA championship in franchise history in 2023, defeating the Miami Heat 4-1 in the NBA Finals. This victory marked a historic moment for the Nuggets, who had previously only reached the Finals once in 1976 (as the Denver Rockets in the ABA).
   
-- **NBA Finals MVP**: **Nikola Jokić (Denver Nuggets)**
-  - Nikola Jokić was named Finals MVP after leading the Nuggets to the championship. Jokić had a phenomenal series, averaging 30.2 points, 14 rebounds, and 7.2 assists per game, showcasing his all-around play and dominance. This was his first Finals MVP award.
+- **NBA Finals MVP**: **Nikola Jokic (Denver Nuggets)**
+  - Nikola Jokic was named Finals MVP after leading the Nuggets to the championship. Jokic had a phenomenal series, averaging 30.2 points, 14 rebounds, and 7.2 assists per game, showcasing his all-around play and dominance. This was his first Finals MVP award.
   
 - **NBA Regular Season MVP**: **Joel Embiid (Philadelphia 76ers)**
   - Joel Embiid won the 2023 MVP award, after being a finalist multiple times before. Embiid had an outstanding season, averaging 33.0 points, 10.2 rebounds, and 4.2 assists per game, leading the 76ers to the third seed in the Eastern Conference.
@@ -87,8 +87,8 @@
 - **NBA Regular Season MVP**: **Giannis Antetokounmpo (Milwaukee Bucks)**
   - Giannis Antetokounmpo won his first MVP award in 2019 after a dominant season, averaging 27.7 points, 12.5 rebounds, and 5.9 assists per game. He led the Bucks to the best record in the NBA and was a force on both ends of the floor.
   
-- **NBA Rookie of the Year**: **Luka Dončić (Dallas Mavericks)**
-  - Luka Dončić won Rookie of the Year honors after an incredible first season. He averaged 21.2 points, 7.8 rebounds, and 6.0 assists per game, and quickly became one of the brightest young stars in the league.
+- **NBA Rookie of the Year**: **Luka Doncic (Dallas Mavericks)**
+  - Luka Doncic won Rookie of the Year honors after an incredible first season. He averaged 21.2 points, 7.8 rebounds, and 6.0 assists per game, and quickly became one of the brightest young stars in the league.
   
 - **NBA Defensive Player of the Year**: **Rudy Gobert (Utah Jazz)**
   - Rudy Gobert won his second consecutive Defensive Player of the Year award in 2019. Gobert averaged 2.3 blocks per game and was the defensive anchor for the Jazz, who were one of the league's best defensive teams that season.
