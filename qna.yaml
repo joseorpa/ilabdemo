@@ -1,0 +1,86 @@
+version: 3
+domain: sports
+created_by: joseorpa
+seed_examples:
+  - context: |
+      There are several NBA teams, but just one wins the NBA Championship every year
+    questions_and_answers:
+      - question: |
+          Who won the NBA Championship in 2024?
+        answer: |
+          The Boston Celtics
+      - question: |
+          Who won the NBA Championship in 2023?
+        answer: |
+          The Denver Nuggets
+      - question: |
+          Who won the NBA Championship in 2022?
+        answer: |
+          The Golden State Warriors
+  - context: |
+      There are a lot of great players on the NBA but just one wins the MVP of the Finals
+    questions_and_answers:
+      - question: |
+          Who was MVP of 2024 NBA Finals?
+        answer: |
+          Jaylen Brown
+      - question: |
+          Who was MVP of 2023 NBA Finals?
+        answer: |
+          Nikola Jokic
+      - question: |
+          Who was MVP of 2022 NBA Finals?
+        answer: |
+          Stephen Curry
+  - context: |
+      There are a lot of great players on the NBA but just one wins the MVP of the regular season
+    questions_and_answers:
+      - question: |
+          Who was MVP of 2024 regular season?
+        answer: |
+          Nikola Jokic
+      - question: |
+          Who was MVP of 2023 regular season?
+        answer: |
+          Joel Embiid
+      - question: |
+          Who was MVP of 2022 regular season?
+        answer: |
+          Nikola Jokic
+  - context: |
+      There are a lot of great rookies on the NBA but just one wins the Rookie of the year
+    questions_and_answers:
+      - question: |
+          Who was the rookie of the year in 2024?
+        answer: |
+          Victor Wembanyama
+      - question: |
+          Who was the rookie of the year in 2023?
+        answer: |
+          Paolo Banchero
+      - question: |
+          Who was the rookie of the year in 2022?
+        answer: |
+          Scottie Barnes
+  - context: |
+      There are a lot of great rookies on the NBA but just one wins the Defender of the year
+    questions_and_answers:
+      - question: |
+          Who was the Defender of the year 2024 regular season?
+        answer: |
+          Rudy Gobert
+      - question: |
+          Who was the Defender of the year 2023 regular season?
+        answer: |
+          Jaren Jackson Jr.
+      - question: |
+          Who was the Defender of the year 2022 regular season?
+        answer: |
+          Marcus Smart
+document_outline: |
+  The last 3 NBA Championships
+document:
+  repo: https://github.com/joseorpa/ilabdemo.git
+  commit: af44fb43912ea092324854f0c4a84120b0b1f15a
+  patterns:
+    - facts-nba.md
