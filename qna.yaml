@@ -3,84 +3,136 @@ domain: sports
 created_by: joseorpa
 seed_examples:
   - context: |
-      There are several NBA teams, but just one wins the NBA Championship every year
+      The 2024 NBA Championship was won by the Boston Celtics, who defeated the Dallas Mavericks
+      in a 5-game series to claim their first NBA title after 16 years. Jaylen Brown was named
+      Finals MVP after an outstanding performance, after averaging 20.8 points, 5.4 rebounds,
+      and 5.0 assists per game. Nikola Jokic of the Denver Nuggets was awarded the 2024 NBA MVP
+      In the 2023-24 regular season, Jokic ranked 10th in the NBA in points, fourth in rebounds
+      and third in assists per game. He became the second player in NBA history to have at least
+      2,000 points, 900 rebounds and 700 assists in a season, joining Oscar Robertson (1961-62).
+      Victor Wembanyama of the San Antonio Spurs earned Rookie of the Year honors, impressing
+      with his scoring, playmaking, and leadership, a unanimous winner, Wembanyama becomes the
+      3rd Spurs player to claim rookie honors, joining David Robinson (1989-90) and Tim Duncan
+      (1997-98). The 2024 NBA Defensive Player of the Year was Rudy Gobert of the Minnesota
+      Timberwolves, who dominated as a shot-blocker and defensive anchor, leading the league in
+      blocks and earning praise for his overall defensive impact.
     questions_and_answers:
       - question: |
           Who won the NBA Championship in 2024?
         answer: |
           The Boston Celtics
       - question: |
-          Who won the NBA Championship in 2023?
-        answer: |
-          The Denver Nuggets
-      - question: |
-          Who won the NBA Championship in 2022?
-        answer: |
-          The Golden State Warriors
-  - context: |
-      There are a lot of great players on the NBA but just one wins the MVP of the Finals
-    questions_and_answers:
-      - question: |
           Who was MVP of 2024 NBA Finals?
         answer: |
           Jaylen Brown
+      - question: |
+          Who was the rookie of the year in 2024?
+        answer: |
+          Victor Wembanyama
+  - context: |
+      The 2023 NBA Championship was won by the Denver Nuggets, who defeated the Miami Heat in a
+      5-game series to claim their first-ever NBA title. Nikola Jokic was named Finals MVP after
+      an outstanding performance, averaging a triple-double throughout the series and delivering
+      dominant all-around play, including a 28-point, 16-rebound, and 13-assist effort in the
+      clinching Game 5. Joel Embiid of the Philadelphia 76ers was awarded the 2023 NBA MVP after
+      a stellar regular season in which he led the league in scoring with 33.0 points per game
+      while also contributing 10.2 rebounds and 4.2 assists. Paolo Banchero of the Orlando Magic
+      earned Rookie of the Year honors, impressing with his scoring, playmaking, and leadership,
+      helping to elevate the Magic's offense. The 2023 NBA Defensive Player of the Year was
+      Jaren Jackson Jr. of the Memphis Grizzlies, who dominated as a shot-blocker and defensive anchor,
+      leading the league in blocks and earning praise for his overall defensive impact.
+    questions_and_answers:
+      - question: |
+          Who won the NBA Championship in 2023?
+        answer: |
+          Denver Nuggets
       - question: |
           Who was MVP of 2023 NBA Finals?
         answer: |
           Nikola Jokic
       - question: |
-          Who was MVP of 2022 NBA Finals?
-        answer: |
-          Stephen Curry
-  - context: |
-      There are a lot of great players on the NBA but just one wins the MVP of the regular season
-    questions_and_answers:
-      - question: |
-          Who was MVP of 2024 regular season?
-        answer: |
-          Nikola Jokic
-      - question: |
-          Who was MVP of 2023 regular season?
+          Who was MVP of 2023 Regular season?
         answer: |
           Joel Embiid
+  - context: |
+      The 2022 NBA Championship was won by the Golden State Warriors, who triumphed over the
+      Boston Celtics in a 6-game series to secure their fourth title in eight years. Stephen Curry
+      was named Finals MVP, delivering a historic performance, including a 43-point outing in Game
+      4 and consistently leading the Warriors with his scoring and leadership throughout the series.
+      The 2022 NBA MVP was awarded to Nikola Jokic of the Denver Nuggets, who had a dominant season,
+      averaging 27.1 points, 13.8 rebounds, and 7.9 assists per game. Scotty Barnes of the Toronto
+      Raptors took home Rookie of the Year honors, making an immediate impact with his versatility,
+      scoring, and defense. Matisse Thybulle of the Philadelphia 76ers was named NBA Defensive Player
+      of the Year, earning recognition for his elite perimeter defense and ability to lock down
+      opposing players on the wing.
+    questions_and_answers:
+      - question: |
+          Who won the NBA Championship in 2022?
+        answer: |
+          Golden State Warriors
+      - question: |
+          Who was MVP of 2022 finals?
+        answer: |
+          Stephen Curry
       - question: |
           Who was MVP of 2022 regular season?
         answer: |
           Nikola Jokic
   - context: |
-      There are a lot of great rookies on the NBA but just one wins the Rookie of the year
+      The 2021 NBA Championship was claimed by the Milwaukee Bucks, who defeated the Phoenix Suns
+      in a thrilling 6-game series to secure their first title in 50 years. Giannis Antetokounmpo
+      was named Finals MVP, delivering a legendary performance in the series, including a 50-point
+      effort in the decisive Game 6, leading the Bucks to a 105-98 victory. The 2021 NBA MVP was
+      awarded to Nikola Jokic of the Denver Nuggets, who had a historic season, averaging 26.4
+      points, 10.8 rebounds, and 8.3 assists per game while leading his team to a top playoff seed.
+      LaMelo Ball of the Charlotte Hornets was named Rookie of the Year, impressing with his
+      dazzling playmaking, scoring, and leadership, despite missing a portion of the season due
+      to injury. The 2021 NBA Defensive Player of the Year was Rudy Gobert of the Utah Jazz,
+      who anchored one of the league's best defenses, finishing with an impressive 2.7 blocks
+      per game and earning his third Defensive Player of the Year award.
     questions_and_answers:
       - question: |
-          Who was the rookie of the year in 2024?
+          Who won the NBA Championship in 2021?
         answer: |
-          Victor Wembanyama
+          Milwaukee Bucks
       - question: |
-          Who was the rookie of the year in 2023?
+          Who was MVP of 2021 finals?
         answer: |
-          Paolo Banchero
+          SGiannis Antetokounmpo
       - question: |
-          Who was the rookie of the year in 2022?
-        answer: |
-          Scottie Barnes
-  - context: |
-      There are a lot of great rookies on the NBA but just one wins the Defender of the year
-    questions_and_answers:
-      - question: |
-          Who was the Defender of the year 2024 regular season?
+          Who was the defender of the of 2021 regular season?
         answer: |
           Rudy Gobert
+  - context: |
+      The 2020 NBA Championship was won by the Los Angeles Lakers, who defeated the Miami Heat
+      in a 6-game series to claim their 17th title, tying them with the Boston Celtics for the
+      most in NBA history. LeBron James was named Finals MVP, leading the Lakers with an
+      exceptional all-around performance, including a triple-double in the decisive Game 6,
+      as he captured his fourth Finals MVP award. The 2020 NBA MVP was awarded to Giannis
+      Antetokounmpo of the Milwaukee Bucks, who had a dominant season, averaging 29.5 points,
+      13.6 rebounds, and 5.6 assists, while leading his team to the best record in the East.
+      Ja Morant of the Memphis Grizzlies earned Rookie of the Year honors, electrifying fans
+      with his athleticism, playmaking, and ability to lead the Grizzlies to the play-in tournament.
+      The 2020 NBA Defensive Player of the Year was Rudy Gobert of the Utah Jazz, who anchored
+      the Jazz's defense with a league-leading 2.0 blocks per game and helped propel them to
+      one of the top defensive rankings in the league.
+    questions_and_answers:
       - question: |
-          Who was the Defender of the year 2023 regular season?
+          Who won the NBA Championship in 2020?
         answer: |
-          Jaren Jackson Jr.
+          Los Angeles Lakers
       - question: |
-          Who was the Defender of the year 2022 regular season?
+          Who was MVP of 2020 regular season?
         answer: |
-          Marcus Smart
+          Giannis Antetokounmpo
+      - question: |
+          Who was the rookie of the year in 2020?
+        answer: |
+          Ja Morant
 document_outline: |
-  The last 3 NBA Championships
+  The last 5 NBA Championships
 document:
   repo: https://github.com/joseorpa/ilabdemo.git
-  commit: af44fb43912ea092324854f0c4a84120b0b1f15a
+  commit: 1e88c34280eb1b24573171cdd80ffc48cb5f9880a
   patterns:
     - facts-nba.md
